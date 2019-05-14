@@ -1,6 +1,6 @@
 # the-craft-of-selfteaching
 
-> One has no future if one couldn't teach themself<a href='#fn1' name='fn1b'><sup>[1]</sup></a>.
+> The people that couldn't teach themselves have no future<a href='#fn1' name='fn1b'><sup>[1]</sup></a>.
 
 # 自学是门手艺
 
